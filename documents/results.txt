@@ -1,0 +1,10 @@
+start time--Wed Oct 26 16:15:36 BDT 2022
+end time--Wed Oct 26 16:17:34 BDT 2022
+
+
+1231081 - lines in original file.
+100001 - lines after removing duplicate.
+1131080 - duplicate lines.
+
+99,838 - validate lines.
+163 - invalidate lines.
